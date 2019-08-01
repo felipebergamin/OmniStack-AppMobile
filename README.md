@@ -2,4 +2,4 @@
 
 projeto desenvolvido na 7 semana OmniStack oferecida pela Rocketseat
 
-app mobile testado em Android
+app mobile testado em Android desenvolvido com React Native
